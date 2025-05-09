@@ -9,8 +9,12 @@ h1{
     font-size: 25px;
     background-color: lightgray;
     border: 4px black solid;
-    width: 500px;
+    width: 35vw;
     padding-left: 20px;
+}
+.indexitem:hover{
+    color: white;
+    background-color: blue;
 }
 ul{
     font-size: 30px;
@@ -26,7 +30,7 @@ hr{
     border-right: outset darkblue 5px;
 }
 img{
-    width: 800px;
+    width: 50vw;
     box-shadow: 1vh 1vh 1vh black;
 }
 img:hover{
@@ -58,12 +62,11 @@ h2{
     font-size: 50px;
 }
 #title{
-    margin: 100px;
+    margin: 7vw;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 #content{
-    margin: 200px;
     margin-left: 15vw;
     margin-right: 30vw;
     margin-top: 100px;
